@@ -4,7 +4,7 @@ import { Header } from '../../components/Header'
 
 const Home: NextPage = () => {
   return (
-    <Flex direction="column" h="100vh">
+    <Flex direction="column" h="100vh" align='center'>
       <Header />
       <h1>BETS</h1>
     </Flex>
