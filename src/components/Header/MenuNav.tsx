@@ -22,7 +22,7 @@ export function MenuNav() {
         <Divider orientation='vertical' />
       </Center>
 
-      <NextLink href="/">
+      <NextLink href="/dashboard">
         <Link fontFamily='monospace' fontWeight="semibold">
           Home
         </Link>
